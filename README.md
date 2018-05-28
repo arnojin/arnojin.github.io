@@ -1,9 +1,18 @@
 # 简介
 
-* 性格稳重，为人真诚，做事细致；
-* 熟悉研发部门建设、管理、流程制度制定、数据治理，人员招聘、培养、考核；
-* 熟悉Win/Linux环境，熟悉C#(ASP.NET MVC/WinForm)、Java、PHP、JS(jQuery/ExtJS)、MySQL/MS SQL、MongoDB、HBase、Redis、Hive、Spark、CDH、Kylin、IIS/Apache/Nginx，了解Ruby on Rails；
-* 熟悉常用的项目、产品管理工具MS Project/redmine/CC.Net/jenkins/testlink/ EnterpriseArchitect /AxureRP，并做过适当订制。
+1. 十多年IT、互联网行业研发经验，近十年研发管理经验，3年大数据研发经验，有金融及制造业从业经验；
+1. 性格稳重，为人真诚，做事细致；
+1. 有丰富的研发团队管理、流程制度制定、数据治理经验，较强的洞察力；
+1. 热爱技术，了解数字化转型潮流、技术变化趋势，喜欢积极主动拥抱变化。
+
+## 个人技能
+
+1. 熟悉Win/Linux环境；
+1. 熟悉多种编程语言（C#、Java、Scala、PHP、Python、Ruby、JS），熟悉领域模型；
+1. 对传统关系型数据库（MySQL/MSSQL/Oracle）有丰富的架构、优化经验；
+1. 熟悉大数据、数仓、ETL相关平台和技术工具（Cloudera CDH、Hadoop、YARN、Impala、Hive、Spark、Sqoop、Kylin、Tableau、MongoDB、Redis）；
+1. 熟悉IIS/Apache/Nginx、Kubernetes、Docker、了解微服务框架、了解Ruby on Rails；
+1. 熟悉常用的项目、架构、产品管理工具MS Project、Git、GitLab、禅道、Redmine、CC.Net 、Jenkins 、TestLink、 EnterpriseArchitect 、AxureRP，针对部分工具做过订制开发。
 
 ## 个人经历
 
@@ -12,6 +21,7 @@
 
 ## 个人资质
 
+1. 2017年12月 数字化协会战略洞察部顾问
 1. 2017年6月 获得证券业从业人员资格
-1. 2015年8月 由排队网推荐，被深圳市人民政府认定为深圳市高层次专业人才
-1. 2010年10月 获得PMI的PMP认证
+1. 2015年8月 被深圳市人民政府认定为深圳市高层次专业人才（第183期）
+1. 2010年10月 获得PMI的PMP资格
